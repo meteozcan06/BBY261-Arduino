@@ -1,0 +1,12 @@
+https://maker.robotistan.com/ses-tanima-ile-gece-lambasi-kontrolu/ örnek olarak.
+https://www.projehocam.com/duman-ve-sicaklik-alarmi-yapimi/
+https://www.projehocam.com/robot-yapmak-hc-sr04-mesafe-sensoru/
+https://www.projehocam.com/pir-sensoru-ile-hareket-dedektoru-arduino/
+https://www.projehocam.com/arduino-baslangic-projeleri-trafik-lambasi/
+http://www.bilimgenc.tubitak.gov.tr/content/deprem-habercisi
+
+https://www.mobilhanem.com/arduino-sicaklik-sensoru-lm35/ Ortamdaki sýcaklýk artýnca ses ya da ýþýk yanmasý.
+
+
+Mete Özcan
+Nurettin Þen
