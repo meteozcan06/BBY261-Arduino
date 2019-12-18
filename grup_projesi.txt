@@ -1,1 +1,21 @@
+Grup üyeleri:
+Alper Temiz
+Mete Özcan
+Nurettin Şen
+Onur Öztürk
 
+Proje Konusu:
+Kütüphane Geçiş Sistemi
+
+Sensörün önünden biri geçtiğinde hem ses hemde ışık çalışarak lcd ekranda kaç kişinin geçtiğini gösteren bir programın kodunu yazıyoruz.
+
+Gerekli Malzemeler:
+
+Breadboard
+Arduino UNO 1 Adet
+HC-SR04 1 Adet
+Erkek Jumper Kablo 1 Adet   
+LCD ekran 1 Adet
+Dişi jumper kablo
+Direnç 1 adet
+Buzzer 1 adet
